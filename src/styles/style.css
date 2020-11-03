@@ -1,0 +1,24 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+select{
+    width: 200px;
+    margin: 20px;
+    height: 35px;
+    border: 2px solid #bfdcae;
+    border-radius: 10px;
+}
+
+surah-item{
+    margin: 20px;
+    padding: 20px;
+}
